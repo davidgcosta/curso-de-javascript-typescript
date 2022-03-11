@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+.texto {
+    display: block;
+    background: red;
+    width: 100%;
+    max-height: 600px;
+    max-width: 100%;
+    min-height: 0;
+    min-width: 0;
+    height: 100%;
+    overflow: auto;
+    margin: 0 auto;
+   
+}

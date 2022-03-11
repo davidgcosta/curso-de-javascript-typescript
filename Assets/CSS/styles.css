@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+      /* p {
+        color: red;
+    } */
+
+    
+    
+    body div section p {
+        color: yellow;
+    }
+
+    .heading {
+        color: purple;
+    }
+
+    .main-content {
+        font-style: italic;
+    }
+
+    .main-content .heading {
+        color: royalblue;
+    }
+
+    div {
+        color: initial;
+    }
+
+    .pai {
+        color: red;
+    }
+
+    .pai .filha {
+        color: turquoise;
+    }
