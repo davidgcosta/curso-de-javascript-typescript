@@ -1,0 +1,12 @@
+body {
+    background: cyan;
+}
+
+h1 {
+    border: 2px solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: black;
+    padding: 1em;
+    align-content: center;
+} 
